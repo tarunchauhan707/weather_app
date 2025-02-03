@@ -1,6 +1,9 @@
 ﻿# Weather App
 This is a weather application built using Next.js and Heroui (previously known as Next UI). It fetches weather data from the OpenWeather API.
 
+You can access the application at [WEATHER APP](https://weather-app-blond-two-42.vercel.app/)
+
+
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
